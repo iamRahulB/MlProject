@@ -1,4 +1,4 @@
-end<h2>Description of setup.py</h2>
+<h2>Description of setup.py</h2>
 <p>The <code>setup.py</code> file is a script used by the <code>setuptools</code> library to build and distribute Python packages. It defines the necessary metadata about the package, such as its name, version, author, packages to include, and dependencies.</p>
 <p>In this case, the <code>setup.py</code> file specifies that the package name is <code>mlproject</code> and its current version is <code>0.0.1</code>. It also lists the author's name and email.</p>
 <p>The <code>find_packages()</code> function is used to automatically discover all packages (subdirectories containing <code>__init__.py</code> files) in the project.</p>
